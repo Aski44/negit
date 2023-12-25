@@ -355,3 +355,25 @@ git add main.py
 git commit -m "Add 'Hello World' output"
 git push origin master
 git push origin main
+git add main.py
+cd git
+ls
+cd git_project1
+git add main.py
+git push origin main
+cd
+git push origin main
+git pull remotename main
+git pull remotename master:Aski44
+git pull remotename master:dev
+git add --all
+git commit -m "Add 'Hello World' output"
+git push origin master
+git push origin main
+git pull remotename master:Aski44
+git pull remotename main:Aski44
+git updates
+git status
+git pull
+git config pull.rebase false
+git config --global
