@@ -9,3 +9,4 @@
 # negit
 # PycharmProjects
 # PycharmProjects
+# venv
