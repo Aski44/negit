@@ -1,0 +1,5 @@
+[user]
+	name = <Sasha>
+	email = <poriadchenko@yandex.ru>
+[credential]
+	helper = cache
